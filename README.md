@@ -1,2 +1,2 @@
 # Searching-Sorting-Algorithms
-Pyhton for searching/sorting algorithms
+Python for searching/sorting algorithms
